@@ -18,8 +18,8 @@ The swimlane diagram is useful for demonstrating the roles and responsibilities 
 
 In February 2011, OMG released the current version, BPMN version 2.0. 
 
-Useful for: simulation of different scenarios to test process changes before implementing them in the real world. Great for modeling complex processes and understanding interactions between different elements in the process. Can highlight bottlenecks, redundancies, and other inefficiencies in a process.
-## Ice Cream Flow BPMN 2.O: 
+Useful for: simulation of different scenarios to test process changes before implementing them in the real world. Great for modeling complex processes and understanding interactions between different elements in the process. It can highlight bottlenecks, redundancies, and other inefficiencies in a process.
+## Ice Cream Flow BPMN 2. O: 
 ![Ice-Cream flow BPMN 2 0](https://github.com/AliGates915/Business-Analyst-Roadmap/assets/128673394/8226fd8f-f34f-4903-9362-e2d8fc08d3cd)
 ## Hiring Process BPMN 2 O: 
 ![Hiring Process BPMN 2 O drawio](https://github.com/AliGates915/Business-Analyst-Roadmap/assets/128673394/7a0ecfc0-2c0e-4001-bd2f-41c2aa025f2d)
@@ -30,4 +30,13 @@ Process maps visually outline the sequence of steps in a workflow or system, ide
 
 ## Online Purchase Product Process Map: 
 ![Online Purchase Product using Process Map](https://github.com/AliGates915/Business-Analyst-Roadmap/assets/128673394/0c6ae584-06a6-44ff-80d3-6818ee7d22da)
+
+## Use Case Diagram: 
+A use case diagram is a graphical representation of the interactions between users (actors) and a system to achieve specific goals. It provides a high-level view of the system's functionality from the user's perspective.
+* Key elements of a use case diagram include actors, use cases, and relationships.
+Overall, a use case diagram provides a visual overview of the system's functionality and interactions with external entities, helping stakeholders understand its scope and requirements. It is a valuable tool for requirements analysis, communication between stakeholders, and designing the system's architecture.
+
+![Online Job Portal Use Case Diagram drawio](https://github.com/AliGates915/Business-Analyst-Roadmap/assets/128673394/6e4475cf-7c48-405e-a3fc-c0c879950f78)
+
+
 

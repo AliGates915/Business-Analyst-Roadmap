@@ -3,6 +3,7 @@
 Flowcharts diagrammatically represent processes, decisions, and actions through symbols and arrows, simplifying complex systems into easily understandable visual representations, and aiding in analysis, communication, and process optimization. 
 
 ## Flowchart for a Hiring Process in Company
+### Youtube Video: https://www.youtube.com/watch?v=y4LWOOSXHkw
 ![Flowchart for a hiring process in a company](https://github.com/AliGates915/Business-Analyst-Roadmap/assets/128673394/409d4250-4a4c-4813-846f-13b610a1c539)
 
 ## Swimlane Diagram 
@@ -29,6 +30,7 @@ Useful for: simulation of different scenarios to test process changes before imp
 Process maps visually outline the sequence of steps in a workflow or system, identifying key activities, inputs, outputs, and stakeholders to enhance understanding and streamline processes for optimization and improvement. 
 
 ## Online Purchase Product Process Map: 
+### Youtube Video: https://www.youtube.com/watch?v=Qez4mESZ_Sc&t=152s
 ![Online Purchase Product using Process Map](https://github.com/AliGates915/Business-Analyst-Roadmap/assets/128673394/0c6ae584-06a6-44ff-80d3-6818ee7d22da)
 
 ## Use Case Diagram: 

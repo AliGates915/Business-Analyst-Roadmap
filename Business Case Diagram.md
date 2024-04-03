@@ -33,7 +33,8 @@ Process maps visually outline the sequence of steps in a workflow or system, ide
 ### Youtube Video: https://www.youtube.com/watch?v=Qez4mESZ_Sc&t=152s
 ![Online Purchase Product using Process Map](https://github.com/AliGates915/Business-Analyst-Roadmap/assets/128673394/0c6ae584-06a6-44ff-80d3-6818ee7d22da)
 ## Online Job Portal
-![Online Job Portal Process Map drawio](https://github.com/AliGates915/Business-Analyst-Roadmap/assets/128673394/8d09d189-5d3d-4654-825f-98b6d2f93006)
+![Online Job Portal Process Map drawio](https://github.com/AliGates915/Business-Analyst-Roadmap/assets/128673394/f0e1860d-e950-416a-b82c-db4eb7379408)
+
 
 ## Use Case Diagram: 
 A use case diagram is a graphical representation of the interactions between users (actors) and a system to achieve specific goals. It provides a high-level view of the system's functionality from the user's perspective.

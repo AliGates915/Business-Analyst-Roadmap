@@ -40,7 +40,7 @@ Process maps visually outline the sequence of steps in a workflow or system, ide
 A use case diagram is a graphical representation of the interactions between users (actors) and a system to achieve specific goals. It provides a high-level view of the system's functionality from the user's perspective.
 * Key elements of a use case diagram include actors, use cases, and relationships.
 Overall, a use case diagram provides a visual overview of the system's functionality and interactions with external entities, helping stakeholders understand its scope and requirements. It is a valuable tool for requirements analysis, communication between stakeholders, and designing the system's architecture.
-
+## This video is Perfer from Esha: https://www.youtube.com/watch?v=zid-MVo7M-E
 ![Online Job Portal Use Case Diagram drawio](https://github.com/AliGates915/Business-Analyst-Roadmap/assets/128673394/6e4475cf-7c48-405e-a3fc-c0c879950f78)
 
 
